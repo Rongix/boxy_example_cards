@@ -1,4 +1,4 @@
-# widget_of_other_size
+# boxy_example_cards
 
 A new Flutter project.
 
